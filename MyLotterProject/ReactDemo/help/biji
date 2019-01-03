@@ -1,5 +1,0 @@
-1.安装react
-  npm install -g create-react-app
-2.创建博彩项目create-react-app lotterydemo
-3.启动react  npm start
-4.导入web3库 npm install --save web3
